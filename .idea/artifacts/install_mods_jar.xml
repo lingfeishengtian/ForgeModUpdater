@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="install_mods:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/install_mods_jar</output-path>
+    <root id="archive" name="install_mods.jar">
+      <element id="module-output" name="install_mods" />
+    </root>
+  </artifact>
+</component>
